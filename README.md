@@ -1,2 +1,4 @@
 # UncommonlyUsedControlProject
 几个不常用的控件练习合集
+
+几个以前没用怎么用过的控件的练习合集，包括选择器UISegmentedControl、滑块UISlider、数字UIStepper、开关UISwitch.
